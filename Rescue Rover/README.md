@@ -4,6 +4,9 @@ integrates LEDs, buttons, and a potentiometer for enhanced interaction. This pro
 rescue and mining rovers, while functioning independently once loaded with their programs.
 
 Collaboration with:
+
 Alexa Jimenez: 
+
 Kahnishga Solaidurairaj:
+
 Mihaela Harizanova: 
