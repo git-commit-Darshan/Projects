@@ -5,7 +5,7 @@ rescue and mining rovers, while functioning independently once loaded with their
 
 Collaboration with:
 
-Alexa Jimenez: 
+Alexa Jimenez: alexajimenez24
 
 Kahnishga Solaidurairaj:
 
