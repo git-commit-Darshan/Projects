@@ -4,6 +4,6 @@ Collaboration with:
 
 Alexa Jimenez: alexajimenez24
 
-Kahnishga Solaidurairaj:
+Kahnishga Solaidurairaj: KahnishgaSolaidurairaj
 
 Mihaela Harizanova: 
